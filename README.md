@@ -20,4 +20,9 @@ Initial Debugging:-
 
 ![image](https://user-images.githubusercontent.com/47238565/219874377-4df430b9-9ad1-42b2-b0ab-3821df00fb44.png)
 
+Reason for 404 Not Found Error ,during fisrt debugging :- ( All request will hit controller and search for specific path , if no related path in controller and it will return 404 not found .
+
+Displaying String using Controller :
+
+![image](https://user-images.githubusercontent.com/47238565/219876566-bbaa6371-3903-4cc0-a282-cbad9b2a5ed9.png)
 
